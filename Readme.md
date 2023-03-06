@@ -4,4 +4,4 @@
   - Elevated area
   - Encapsulated area
   - Ground with special friction
-!(Arena)[docs/arena.png]
+![arena](docs/arena.png)

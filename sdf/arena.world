@@ -54,8 +54,8 @@
           <material>
             <lighting>1</lighting>
             <script>
-              <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <uri>./src/arena_gazebo/materials/scripts/floor_zone13.material</uri>
+              <name>floor/zone13</name>
             </script>
             <shader type='pixel'>
               <normal_map>__default__</normal_map>
@@ -131,9 +131,10 @@
         <visual name='visual'>
           <pose>6 1 0.0001 0 -0 0</pose>
           <geometry>
-            <box>
-              <size>4 2 0.001</size>
-            </box>
+            <mesh>
+              <uri>src/arena_gazebo/meshes/zone_2_rug.stl</uri>
+              <scale>0.01 0.01 0.005</scale>
+            </mesh>
           </geometry>
           <material>
             <lighting>1</lighting>
@@ -224,7 +225,7 @@
             <lighting>1</lighting>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Brown</name>
+              <name>Gazebo/Black</name>
             </script>
             <shader type='pixel'>
               <normal_map>__default__</normal_map>
@@ -310,7 +311,7 @@
             <lighting>1</lighting>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Brown</name>
+              <name>Gazebo/Black</name>
             </script>
             <shader type='pixel'>
               <normal_map>__default__</normal_map>
@@ -397,7 +398,7 @@
             <lighting>1</lighting>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Brown</name>
+              <name>Gazebo/Black</name>
             </script>
             <shader type='pixel'>
               <normal_map>__default__</normal_map>
@@ -483,7 +484,7 @@
             <lighting>1</lighting>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Brown</name>
+              <name>Gazebo/Black</name>
             </script>
             <shader type='pixel'>
               <normal_map>__default__</normal_map>
@@ -512,7 +513,7 @@
             <lighting>1</lighting>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Brown</name>
+              <name>Gazebo/Black</name>
             </script>
             <shader type='pixel'>
               <normal_map>__default__</normal_map>
@@ -541,7 +542,7 @@
             <lighting>1</lighting>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Brown</name>
+              <name>Gazebo/Black</name>
             </script>
             <shader type='pixel'>
               <normal_map>__default__</normal_map>
@@ -570,7 +571,7 @@
             <lighting>1</lighting>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Brown</name>
+              <name>Gazebo/Black</name>
             </script>
             <shader type='pixel'>
               <normal_map>__default__</normal_map>

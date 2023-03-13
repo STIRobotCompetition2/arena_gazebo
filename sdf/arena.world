@@ -216,7 +216,7 @@
           <pose>6.5 6.5 0 0 -0 -1.5708</pose>
           <geometry>
             <mesh>
-              <uri>/home/svenbecker/Documents/EPFL/Semester_Project/repositories/arena_gazebo/meshes/zone_4.stl</uri>
+              <uri>src/arena_gazebo/meshes/zone_4.stl</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -243,7 +243,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/svenbecker/Documents/EPFL/Semester_Project/repositories/arena_gazebo/meshes/zone_4.stl</uri>
+              <uri>src/arena_gazebo/meshes/zone_4.stl</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -302,7 +302,7 @@
           <pose>4 4 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/svenbecker/Documents/EPFL/Semester_Project/repositories/arena_gazebo/meshes/arena_frame.stl</uri>
+              <uri>src/arena_gazebo/meshes/arena_frame.stl</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -329,7 +329,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/svenbecker/Documents/EPFL/Semester_Project/repositories/arena_gazebo/meshes/zone_4.stl</uri>
+              <uri>src/arena_gazebo/meshes/zone_4.stl</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -388,7 +388,7 @@
           <pose>1.5 6.5 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/svenbecker/Documents/EPFL/Semester_Project/repositories/arena_gazebo/meshes/zone_3.stl</uri>
+              <uri>src/arena_gazebo/meshes/zone_3.stl</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -415,7 +415,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/svenbecker/Documents/EPFL/Semester_Project/repositories/arena_gazebo/meshes/zone_4.stl</uri>
+              <uri>src/arena_gazebo/meshes/zone_4.stl</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
